@@ -1,0 +1,23 @@
+{
+  "name": "chuck_smith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "chuck": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eclectic-coding/chuck_smith.git"
+  },
+  "keywords": [],
+  "author": " <Chuck Smith>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eclectic-coding/chuck_smith/issues"
+  },
+  "homepage": "https://github.com/eclectic-coding/chuck_smith#readme"
+}
