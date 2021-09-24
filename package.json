@@ -1,6 +1,6 @@
 {
   "name": "chuck_smith",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Meet Chuck Smith",
   "main": "index.js",
   "bin": {
