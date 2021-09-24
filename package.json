@@ -1,7 +1,7 @@
 {
   "name": "chuck_smith",
   "version": "1.1.0",
-  "description": "Meet Chuck Smith",
+  "description": "Get to know Chuck via `npx chuck_smith`",
   "main": "index.js",
   "bin": {
     "chuck": "index.js"
@@ -14,13 +14,15 @@
     "url": "git+https://github.com/eclectic-coding/chuck_smith.git"
   },
   "keywords": [],
-  "author": " <Chuck Smith>",
+  "author": {
+    "name": "Chuck Smith"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eclectic-coding/chuck_smith/issues"
   },
   "homepage": "https://github.com/eclectic-coding/chuck_smith#readme",
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "cli-welcome": "^2.2.2"
   }
 }
