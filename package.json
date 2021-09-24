@@ -1,7 +1,7 @@
 {
   "name": "chuck_smith",
   "version": "1.0.0",
-  "description": "",
+  "description": "Meet Chuck Smith",
   "main": "index.js",
   "bin": {
     "chuck": "index.js"
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/eclectic-coding/chuck_smith/issues"
   },
-  "homepage": "https://github.com/eclectic-coding/chuck_smith#readme"
+  "homepage": "https://github.com/eclectic-coding/chuck_smith#readme",
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
+  }
 }
